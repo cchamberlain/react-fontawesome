@@ -287,6 +287,12 @@ Fixed width:
 <FontAwesomeIcon icon="spinner" fixedWidth />
 ```
 
+Inverse:
+
+```javascript
+<FontAwesomeIcon icon="spinner" inverse />
+```
+
 Border:
 
 ```javascript
