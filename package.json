@@ -1,5 +1,5 @@
 {
-  "name": "@fortawesome/react-fontawesome",
+  "name": "@kaggle/react-fontawesome",
   "description": "Official React component for Font Awesome 5",
   "version": "0.0.20",
   "main": "index.js",
@@ -29,7 +29,7 @@
   },
   "peerDependencies": {
     "@fortawesome/fontawesome": ">=1.1.0",
-    "react": "16.x"
+    "react": "15.x || 16.x"
   },
   "devDependencies": {
     "@fortawesome/fontawesome": ">=1.0.0",
